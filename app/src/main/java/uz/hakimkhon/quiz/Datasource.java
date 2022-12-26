@@ -17,7 +17,7 @@ public class Datasource {
                 {"malibu", "matiz", "trekker", "damas"},
                 {"cobalt", "nexia3", "onix", "matiz"},
                 {"malibu", "gentra", "nexia1", "trekker"},
-                {"onix", "matiz", "gentra", "malibu"},
+                {"cobalt", "matiz", "gentra", "malibu"},
                 {"trekker", "onix", "damas", "spark"},
                 {"cobalt", "matiz", "gentra", "damas"},
                 {"malibu", "spark", "onix", "matiz"},
